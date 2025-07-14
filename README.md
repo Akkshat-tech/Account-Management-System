@@ -29,5 +29,5 @@ Kindly consider only 3 files for final submission:
 All the other files and png's, excel's are the supporting files 
 
 
-This project is an end semester project for the course CSE100 offered at Ahmedabad University.
+This project is an end semester project for the course "CSE100: Fundamentals of computer Programming" offered at Ahmedabad University.
 This project was made in group of 4.
