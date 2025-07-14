@@ -1,5 +1,5 @@
 # Account-Management-System
-This repository has a folder of libraries, backend files and images which are required by the source file. There are also 2 excel files in which the operations are done.
+This repository has a folder of libraries, backend files and images which are required by the source file. There are also 2 excel files in which the operations are done. The coading language used is Python
 
 Instructions to execute the source code:
 1) Install the following libraries:
